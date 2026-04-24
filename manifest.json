@@ -1,5 +1,5 @@
 {
-  "name": “다모아”,
+  "name": "다모아",
   "short_name": "다모아",
   "start_url": "/",
   "display": "standalone",
@@ -12,7 +12,7 @@
       "type": "image/png"
     },
     {
-      "src": "https://simintv.net/resource/damoa/damoa_2.png,
+      "src": "https://simintv.net/resource/damoa/damoa_2.png",
       "sizes": "512x512",
       "type": "image/png"
     }
