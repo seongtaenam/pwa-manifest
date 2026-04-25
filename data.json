@@ -5,7 +5,7 @@
     "money": "월 최대 20만원 / 24개월",
     "status": "상시접수",
     "org": "국토교통부",
-    "region": ["전국"],
+    "region": ["경기도"],
     "age": ["20대","30대"],
     "link": "https://www.gov.kr"
   },
@@ -15,7 +15,7 @@
     "money": "최대 5,000만원",
     "status": "상시접수",
     "org": "금융위원회",
-    "region": ["전국"],
+    "region": ["경기도"],
     "age": ["20대","30대"],
     "link": "https://www.ibk.co.kr"
   }
