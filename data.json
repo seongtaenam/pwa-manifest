@@ -1,6 +1,6 @@
 [
   { "title": "청년미래적금", "desc": "청년 대상 자산형성 적금", "money": "최대 2,200만원", "status": "2026-06-30 출시 예정", "org": "보건복지부", "link": "https://www.bokjiro.go.kr", "age": ["20대", "30대"], "region": ["전국"] },
-  { "title": "청년도약계좌", "desc": "청년 5년 만기 자산형성 적금", "money": "최대 5,000만원", "status": "매달 초 신청", "org": "서민금융진흥원", "link": "https://www.kinfa.or.kr/financialProduct/youthLeapAccount.do, "age": ["20대", "30대"], "region": ["전국"] },
+  { "title": "청년도약계좌", "desc": "청년 5년 만기 자산형성 적금", "money": "최대 5,000만원", "status": "매달 초 신청", "org": "서민금융진흥원", "link": "https://www.kinfa.or.kr/financialProduct/youthLeapAccount.do", "age": ["20대", "30대"], "region": ["전국"] },
   { "title": "국민취업지원제도", "desc": "저소득 구직자 활동 지원금", "money": "월 60만원 × 6개월", "status": "상시", "org": "고용노동부", "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200005007", "age": ["20대", "30대", "40대", "50대"], "region": ["전국"] },
   { "title": "청년 월세 특별지원", "desc": "무주택 청년 월세 보조", "money": "월 최대 20만원", "status": "상시", "org": "국토교통부", "link": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004661", "age": ["20대", "30대"], "region": ["전국"] },
   { "title": "부모급여", "desc": "만 0~1세 아동 양육 지원금", "money": "월 50~100만원", "status": "상시", "org": "보건복지부", "link": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004657", "age": ["20대", "30대", "40대"], "region": ["전국"] },
